@@ -1,0 +1,6 @@
+author = Malexion
+version = 1.0.0
+displayName = I Can't Believe It's Not Vanilla
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true
+homepage = https://github.com/Malexion/ICantBelieveItsNotVanilla

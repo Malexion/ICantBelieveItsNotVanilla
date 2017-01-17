@@ -1,0 +1,3 @@
+Starting armor/weapons for base class paths. Recipies for most chance based items. 
+
+Basically an attempt at a replacement for the Quality of Life mod plus a bit more to even out starting gameplay.
